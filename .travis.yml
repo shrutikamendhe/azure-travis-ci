@@ -1,0 +1,5 @@
+deploy:
+  provider: azure_web_apps
+  username: "shrutika"
+  password: "shrutika@123"
+  site: "test-local-git"
